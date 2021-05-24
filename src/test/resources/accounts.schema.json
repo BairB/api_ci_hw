@@ -31,7 +31,7 @@
         "enum": [
 
           "RUB",
-          "USD"
+          "USDd"
         ]
       }
     }
